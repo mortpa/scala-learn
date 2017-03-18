@@ -1,2 +1,2 @@
 # scala-learn
-project to learn sacal
+project to learn scala
